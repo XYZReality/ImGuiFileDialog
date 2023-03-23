@@ -4,6 +4,8 @@
 
 #pragma once
 
+extern const char IGFD_compressed_data_base85[];
+
 #define FONT_ICON_BUFFER_NAME_IGFD IGFD_compressed_data_base85
 #define FONT_ICON_BUFFER_SIZE_IGFD 0xf6e
 
